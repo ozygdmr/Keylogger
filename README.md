@@ -1,5 +1,5 @@
 # Keylogger
 Basic Keylogger
-This is Just For Educational pupose.
+This is Just For Educational purpose.
 Keylogger with client socket using winsock.
 Some improvement can be done but i didn't work on it so much.
